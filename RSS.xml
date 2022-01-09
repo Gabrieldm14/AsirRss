@@ -1,0 +1,58 @@
+    <?xml version=»1.0″ encoding=»UTF-8″ ?>
+    <rss version=»2.0″>
+
+    <channel>
+
+    <title>Miweb</title>
+    <link>https://gabrieldm14.github.io/proyectoHTMLCSS/index.html</link>
+    <description>Web de inirmacion acopilada del curso 21/22.</description>
+    <copyright>CC 4.0 – BY-SA<copyright>
+
+    <item>
+
+    <title>asir</title>
+    <link>https://gabrieldm14.github.io/proyectoHTMLCSS/asir.html</link>
+    <description>Informacion del curso y sus materias.</description>
+    <author>ASIR</author>
+    <pubDate>Sun,  Jan 2022 18:54:00 GMT</pubDate>
+    <enclosure url=https://gabrieldm14.github.io/proyectoHTMLCSS/asir.html type=texto  />
+
+    </item>
+
+    <item>
+
+    <title>modulos</title>
+    <link>https://gabrieldm14.github.io/proyectoHTMLCSS/modulos.html</link>
+    <description>Modulos cursados y por cursar de Asir.</description>
+    <author>modulos Asir</author>
+    <pubDate>Sun,  Jan 2022 18:54:00 GMT</pubDate>
+    <enclosure url=https://gabrieldm14.github.io/proyectoHTMLCSS/modulos.html type=texto />
+
+    </item>
+
+
+    <item>
+
+    <title>centro</title>
+    <link>https://cifpmajadamarcial.com/</link>
+    <description>Enlace a moodle del curso</description>
+    <author>Majada Marcial</author>
+    <pubDate>Sun,  Jan 2022 18:54:00 GMT</pubDate>
+    <enclosure url=https://cifpmajadamarcial.com/ type=datos />
+
+    </item>
+
+    <item>
+
+    <title>contacto</title>
+    <link>https://gabrieldm14.github.io/proyectoHTMLCSS/contacto.html</link>
+    <description>Registro de conctacto para mi web.</description>
+    <author>Miweb contacto</author>
+    <pubDate>Sun,  Jan 2022 18:54:00 GMT</pubDate>
+    <enclosure url=https://gabrieldm14.github.io/proyectoHTMLCSS/contacto.html type=texto />
+
+    </item>
+
+    </channel>
+
+    </rss>
